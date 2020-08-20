@@ -1,0 +1,25 @@
+{
+  "name": "employee-tracker-nje",
+  "version": "1.0.0",
+  "description": "",
+  "main": "employees.js",
+  "scripts": {
+    "start": "node employees.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njohnerwin/employee-tracker-NJE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njohnerwin/employee-tracker-NJE/issues"
+  },
+  "homepage": "https://github.com/njohnerwin/employee-tracker-NJE#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
